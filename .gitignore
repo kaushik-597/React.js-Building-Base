@@ -8,7 +8,7 @@ build/
 # OS & editor files
 .DS_Store
 .vscode/
-*.log
+*.log 
 
 # Ignore these other project folders
 BasicVite/
