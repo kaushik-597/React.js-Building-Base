@@ -1,6 +1,7 @@
 # React.js Projects Collection
 
 This repository contains multiple React-based mini-projects that I am building to learn and practice modern web development with technologies like:
+
 - React.js (Vite)
 - Tailwind CSS
 - JavaScript (ES6+)
@@ -9,19 +10,21 @@ Each project works independently with its own setup and dependencies.
 
 ---
 
-## 📁 Projects Included
+## Projects Included
 
-| Project Name | Description | Status |
-|-------------|-------------|--------|
-| **PasswordGenerator** | Generates strong passwords with custom options (numbers, special chars, length control). | ✅ Completed / Improving UI |
-| **BgChanger** | Simple background color changer to learn state updates and UI interactions. | ✅ Completed |
-| *(Others Hidden)* | More experiments and practice projects exist in this repo but are ignored from the version control. | 🔄 In Progress |
+| Project Name          | Description                                                                                     | Status                      |
+| --------------------- | ----------------------------------------------------------------------------------------------- | --------------------------- |
+| PasswordGenerator     | Generates strong passwords with custom options (numbers, special chars, length control).        | ✅ Completed / Improving UI |
+| BgChanger             | Simple background color changer to learn state updates and UI interactions.                     | ✅ Completed                |
+| CurrencyConverter     | Converts between multiple currencies with real-time rates.                                      | ✅ Completed                |
+| (Other Mini Projects) | More experiments and practice projects exist in this repo but are ignored from version control. | In Progress                 |
 
 ---
 
 ## 🚀 Running Any Project
 
 Choose the project you want to run:
+
 ```bash
 cd <ProjectFolderName>
 npm install
@@ -49,7 +52,9 @@ This repository is a workspace for learning:
 More projects will be added as my React learning continues.
 
 ---
+
 ## Author
+
 Saurav Kaushik
 
 If you like the projects, consider ⭐ starring the repo to support the journey.
