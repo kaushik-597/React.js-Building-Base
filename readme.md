@@ -5,6 +5,7 @@ This repository contains multiple React-based mini-projects that I am building t
 - React.js (Vite)
 - Tailwind CSS
 - JavaScript (ES6+)
+- React Router (for routing-based learning projects)
 
 Each project works independently with its own setup and dependencies.
 
@@ -12,12 +13,13 @@ Each project works independently with its own setup and dependencies.
 
 ## Projects Included
 
-| Project Name          | Description                                                                                     | Status                      |
-| --------------------- | ----------------------------------------------------------------------------------------------- | --------------------------- |
-| PasswordGenerator     | Generates strong passwords with custom options (numbers, special chars, length control).        | ✅ Completed / Improving UI |
-| BgChanger             | Simple background color changer to learn state updates and UI interactions.                     | ✅ Completed                |
-| CurrencyConverter     | Converts between multiple currencies with real-time rates.                                      | ✅ Completed                |
-| (Other Mini Projects) | More experiments and practice projects exist in this repo but are ignored from version control. | In Progress                 |
+| Project Name          | Description                                                                                       | Status                      |
+| --------------------- | ------------------------------------------------------------------------------------------------- | --------------------------- |
+| PasswordGenerator     | Generates strong passwords with custom options (numbers, special chars, length control).          | ✅ Completed / Improving UI |
+| BgChanger             | Simple background color changer to learn state updates and UI interactions.                       | ✅ Completed                |
+| CurrencyConverter     | Converts between multiple currencies with real-time API exchange rates.                           | ✅ Completed                |
+| ReactRouter           | Practice project demonstrating navigation using React Router with multiple pages and layouts.     | ✅ Completed / Expandable   |
+| (Other Mini Projects) | More experiments and small learning apps exist in this repo but are ignored from version control. | In Progress                 |
 
 ---
 
