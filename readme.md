@@ -13,15 +13,15 @@ Each project works independently with its own setup and dependencies.
 
 ## Projects Included
 
-| Project Name          | Description                                                                                        | Status                      |
-| --------------------- | -------------------------------------------------------------------------------------------------- | --------------------------- |
-| PasswordGenerator     | Generates strong passwords with custom options (numbers, special chars, length control).           | ✅ Completed / Improving UI |
-| BgChanger             | Simple background color changer to learn state updates and UI interactions.                        | ✅ Completed                |
-| CurrencyConverter     | Converts between multiple currencies with real-time API exchange rates.                            | ✅ Completed                |
-| ReactRouter           | Practice project demonstrating navigation using React Router with multiple pages and layouts.      | ✅ Completed / Expandable   |
-| ThemeChanger          | Implements light/dark theme toggling using context API and Tailwind CSS for smooth UI transitions. | ✅ Completed / Polishing UI |
-| (Other Mini Projects) | More experiments and small learning apps exist in this repo but are ignored from version control.  | In Progress                 |
-|  |
+| Project Name              | Description                                                                                          | Status                      |
+| ------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------- |
+| **PasswordGenerator**     | Generates strong passwords with custom options like numbers, special characters, and length control. | ✅ Completed / Improving UI |
+| **BgChanger**             | Simple background color changer to explore state updates and UI interactions.                        | ✅ Completed                |
+| **CurrencyConverter**     | Converts between multiple currencies using real-time API exchange rates.                             | ✅ Completed                |
+| **ReactRouter**           | Demonstrates navigation between multiple pages and layouts using React Router.                       | ✅ Completed / Expandable   |
+| **ThemeChanger**          | Implements light/dark theme toggling using Context API and Tailwind CSS for smooth transitions.      | ✅ Completed / Polishing UI |
+| **ToDoApp**               | Task manager app with localStorage support, edit/delete functionality, and smooth UI interactions.   | ✅ Completed                |
+| **(Other Mini Projects)** | Additional small experiments and utilities that are ignored from version control.                    | ⚙️ In Progress              |
 
 ---
 
